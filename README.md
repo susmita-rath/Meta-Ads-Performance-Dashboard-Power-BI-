@@ -1,4 +1,4 @@
-# Meta-Ads-Performance-Dashboard-Power-BI-
+# Meta-Ads-Performance-Dashboard-Power-BI
 ## Project Overview
 
 This project is an interactive **Power BI dashboard** developed to analyze and monitor the performance of Meta (Facebook and Instagram) advertising campaigns. The dashboard provides a comprehensive view of campaign performance by tracking key digital marketing metrics, enabling businesses and marketing teams to evaluate campaign effectiveness, optimize advertising spend, and make data-driven decisions.
